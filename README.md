@@ -4,12 +4,12 @@
 
 Que aprendemos
 
-*HTML básico
-*JavaScript básico
-*Expresiones Regulares
-*Un poquito de CSS
-*Uso de Emmet (instale el plugin para su editor)
-*Uso de Mocha y Chai
-*Uso de Gulp
+* HTML básico
+* JavaScript básico
+* Expresiones Regulares
+* Un poquito de CSS
+* Uso de Emmet 
+* Uso de Mocha y Chai
+* Uso de Gulp
 
 Enlaces:
