@@ -1,0 +1,22 @@
+{
+  "name": "temperature_converter",
+  "version": "0.0.1",
+  "description": "ULL ESIT Grado en Ingeniería Informática. 4º Sistemas Web. \"Temperature Converter\"",
+  "main": "temperature.js",
+  "scripts": {
+    "test": "open tests/index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/alu0100406122/temperature_converter.git"
+  },
+  "keywords": [
+    "regexp"
+  ],
+  "author": "Nayra",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alu0100406122/temperature_converter/issues"
+  },
+  "homepage": "https://github.com/alu0100406122/temperature_converter"
+}
