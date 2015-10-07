@@ -1,6 +1,6 @@
-#Práctica 02. Sistemas y Tecnologías Web.
+##Práctica 02. Sistemas y Tecnologías Web.
 
-##Conversor en JavaScript de grados Celsius a Farenheit y viceversa
+###Conversor en JavaScript de grados Celsius a Farenheit y viceversa
 
 Que aprendemos
 
