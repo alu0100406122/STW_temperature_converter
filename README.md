@@ -16,4 +16,5 @@ Enlaces:
 
 * Repositorio GitHUb: https://github.com/alu0100406122/temperature_converter
 * URL Aplicación: http://alu0100406122.github.io/temperature_converter/
-* 
+* URL Tests: http://alu0100406122.github.io/temperature_converter/tests/
+* URL GitHub Page: 
