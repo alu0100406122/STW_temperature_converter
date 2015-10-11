@@ -15,7 +15,6 @@ function calculate(){
         var type = m[3];
         num = parseFloat(num);      /*string --> float*/
         exp = parseInt(exp);
-
         if(m[2]!==undefined){
             var i,j;
             i = 1; j = 10;
@@ -26,8 +25,7 @@ function calculate(){
                     i++;}
                 if(j !== 0){
                   num = num/j;
-                }
-            }
+                }}
             else{
               while(i < exp){
                 j = j * 10;
@@ -35,8 +33,7 @@ function calculate(){
               }
             if(j !== 0)
               num = num*j;
-            }
-        }
+            }}
         
         if (type=='c' || type=='C'){
             result = (num * 9/5)+32;
